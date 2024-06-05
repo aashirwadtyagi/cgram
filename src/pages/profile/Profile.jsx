@@ -15,7 +15,7 @@ function Profile() {
         <div className="profileRightTop">
             <div className="profileCover">
             <img src="/assets/post/3.jpeg" alt="" className="coverImg" />
-            <img src="/assets/post/2.jpeg" alt="" className="userImg" />
+            <img src="/assets/person/a.JPG" alt="" className="userImg" />
             </div>
             <div className="profileInfo">
                 <h4 className="info">Aashirwad</h4>

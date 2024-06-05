@@ -67,27 +67,23 @@ function sideBar() {
           </li>
           <li className="sideBarFriend">
             <img src="/assets/person/3.jpeg" alt="" className="sideBarFriendImg" />
-            <span className="sideBarFriendName">Rishabh</span>
+            <span className="sideBarFriendName">Hritik Roshan</span>
           </li>
           <li className="sideBarFriend">
             <img src="/assets/person/4.jpeg" alt="" className="sideBarFriendImg" />
-            <span className="sideBarFriendName">Gunjan</span>
+            <span className="sideBarFriendName">Varun Dhavan</span>
           </li>
           <li className="sideBarFriend">
             <img src="/assets/person/5.jpeg" alt="" className="sideBarFriendImg" />
-            <span className="sideBarFriendName">Mona</span>
+            <span className="sideBarFriendName">Rishabh Pant</span>
           </li>
           <li className="sideBarFriend">
             <img src="/assets/person/6.jpeg" alt="" className="sideBarFriendImg" />
-            <span className="sideBarFriendName">Anju</span>
+            <span className="sideBarFriendName">Messi</span>
           </li>
           <li className="sideBarFriend">
             <img src="/assets/person/7.jpeg" alt="" className="sideBarFriendImg" />
-            <span className="sideBarFriendName">Rajeev</span>
-          </li>
-          <li className="sideBarFriend">
-            <img src="/assets/person/c.jpg" alt="" className="sideBarFriendImg" />
-            <span className="sideBarFriendName">Chaitanya</span>
+            <span className="sideBarFriendName">Travis Scott</span>
           </li>
         </ul>
 

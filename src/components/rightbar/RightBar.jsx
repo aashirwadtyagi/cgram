@@ -9,7 +9,7 @@ export default function Rightbar({ profile }) {
         <div className="birthdayContainer">
           <img className="birthdayImg" src="assets/gift.png" alt="" />
           <span className="birthdayText">
-            <b>Pola Foster</b> and <b>3 other friends</b> have a birhday today.
+            <b>Rishabh Pant</b> and <b>3 other friends</b> have a birhday today.
           </span>
         </div>
         <img className="rightbarAd" src="assets/ad.png" alt="" />
@@ -30,11 +30,11 @@ export default function Rightbar({ profile }) {
         <div className="rightbarInfo">
           <div className="rightbarInfoItem">
             <span className="rightbarInfoKey">City:</span>
-            <span className="rightbarInfoValue">New York</span>
+            <span className="rightbarInfoValue">New Delhi</span>
           </div>
           <div className="rightbarInfoItem">
             <span className="rightbarInfoKey">From:</span>
-            <span className="rightbarInfoValue">Madrid</span>
+            <span className="rightbarInfoValue">Deoband</span>
           </div>
           <div className="rightbarInfoItem">
             <span className="rightbarInfoKey">Relationship:</span>
@@ -83,46 +83,7 @@ export default function Rightbar({ profile }) {
             />
             <span className="rightbarFollowingName">John Carter</span>
           </div>
-          <div className="rightbarFollowing">
-            <img
-              src="assets/person/6.jpeg"
-              alt=""
-              className="rightbarFollowingImg"
-            />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img
-              src="assets/person/1.jpeg"
-              alt=""
-              className="rightbarFollowingImg"
-            />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img
-              src="assets/person/1.jpeg"
-              alt=""
-              className="rightbarFollowingImg"
-            />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img
-              src="assets/person/1.jpeg"
-              alt=""
-              className="rightbarFollowingImg"
-            />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img
-              src="assets/person/1.jpeg"
-              alt=""
-              className="rightbarFollowingImg"
-            />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
+          
         </div>
       </>
     );

@@ -2,53 +2,38 @@ export const Users = [
   {
     id:1,
     profilePicture: "assets/person/1.jpeg",
-    username: "Safak Kocaoglu",
+    username: "Rohit Sharma",
   },
   {
     id:2,
     profilePicture: "assets/person/2.jpeg",
-    username: "Janell Shrum",
+    username: "Virat Kohli",
   },
   {
     id:3,
     profilePicture: "assets/person/3.jpeg",
-    username: "Alex Durden",
+    username: "Hritik Roshan",
   },
   {
     id:4,
     profilePicture: "assets/person/4.jpeg",
-    username: "Dora Hawks",
+    username: "Varun Dhavan",
   },
   {
     id:5,
     profilePicture: "assets/person/5.jpeg",
-    username: "Thomas Holden",
+    username: "Rishabh Pant",
   },
   {
     id:6,
     profilePicture: "assets/person/6.jpeg",
-    username: "Shirley Beauchamp",
+    username: "Leonal Messi",
   },
   {
     id:7,
     profilePicture: "assets/person/7.jpeg",
-    username: "Travis Bennett",
-  },
-  {
-    id:8,
-    profilePicture: "assets/person/8.jpeg",
-    username: "Kristen Thomas",
-  },
-  {
-    id:9,
-    profilePicture: "assets/person/9.jpeg",
-    username: "Gary Duty",
-  },
-  {
-    id:10,
-    profilePicture: "assets/person/10.jpeg",
-    username: "Safak Kocaoglu",
-  },
+    username: "Travis Scott",
+  }
 ];
 
 export const Posts = [
@@ -115,7 +100,7 @@ export const Posts = [
     id: 8,
     photo: "assets/post/8.jpeg",
     date: "3 days ago",
-    userId: 8,
+    userId: 7,
     like: 15,
     comment: 1,
   },
@@ -124,7 +109,7 @@ export const Posts = [
     desc: "Change the world by being yourself.",
     photo: "assets/post/9.jpeg",
     date: "5 days ago",
-    userId: 9,
+    userId: 4,
     like: 11,
     comment: 2,
   },
@@ -132,7 +117,7 @@ export const Posts = [
     id: 10,
     photo: "assets/post/10.jpeg",
     date: "1 week ago",
-    userId: 10,
+    userId: 1,
     like: 104,
     comment: 12,
   },

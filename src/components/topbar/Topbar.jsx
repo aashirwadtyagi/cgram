@@ -14,6 +14,16 @@ function Topbar() {
     navigate('/');
   };
 
+  const handleLogoClick1 = () => {
+    navigate('/Profile');
+  };
+  const handleLogoClick2 = () => {
+    navigate('/login');
+  };
+  const handleLogoClick3 = () => {
+    navigate('/register');
+  };
+
   return (
     <div className="topBarContainer">
 
@@ -30,8 +40,8 @@ function Topbar() {
 
       <div className="topBarRight">
         <div className="topBarLinks">
-          <span className="topBarLink">Homepage</span>
-          <span className="topBarLink">Timeline</span>
+          <span className="topBarLink" onClick={handleLogoClick2}>  Login New Acc  </span>
+          <span className="topBarLink" onClick={handleLogoClick3}> Register</span>
         </div>
         <div className="topBarIcons">
           <div className="topBarIconItem">
@@ -47,7 +57,7 @@ function Topbar() {
             <span className="topBarIconBadge">1</span>
           </div>
         </div>
-        <img src="/assets/person/a.JPG" alt="" className="topBarImg" />
+        <img onClick={handleLogoClick1} src="/assets/person/a.JPG" alt="" className="topBarImg"  />
       </div>
     </div>
   )
