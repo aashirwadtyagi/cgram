@@ -40,7 +40,7 @@ function Topbar() {
 
       <div className="topBarRight">
         <div className="topBarLinks">
-          <span className="topBarLink" onClick={handleLogoClick2}>  Login New Acc  </span>
+          <span className="topBarLink" onClick={handleLogoClick2}>  Login another Acc  </span>
           <span className="topBarLink" onClick={handleLogoClick3}> Register</span>
         </div>
         <div className="topBarIcons">
